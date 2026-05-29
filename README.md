@@ -6,7 +6,7 @@ Projeto desenvolvido em Power BI para acompanhamento de indicadores de Recursos 
 
 Analisar dados salariais e indicadores estratégicos de RH através de dashboards interativos.
 
-## Tecnologias Utilizadas
+## Ferramentas ultilizadas
 
 - Power BI
 - Power Query
